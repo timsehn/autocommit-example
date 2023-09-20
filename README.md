@@ -4,7 +4,8 @@ An example of using the Python database connector that has autocommit off by def
 
 # Setup
 
-This eaxmple uses [Dolt](https://www.doltdb.com) as the SQL database.
+This example uses [Dolt](https://www.doltdb.com) as the SQL database. To setup:
+
 ```bash
 $ cd dolt
 $ mkdir autocommit_example
